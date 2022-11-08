@@ -1,0 +1,1 @@
+*This challenge was for us to create a game that displays a series of questions with a list of possible answers. Once the game starts a timer is prompted, but be careful, if you answer wrong time will get deducted. Answer as quickly as possible to get a high score. 
